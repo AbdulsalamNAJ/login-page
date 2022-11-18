@@ -1,0 +1,48 @@
+body {
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(#0c3fc3, #5b0cc3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.containerz {
+    background-color: white;
+    padding: 20px;
+    border-radius: 7px;
+    border: 5px solid #3b3b3b;
+}
+
+h1 {
+    color:#0c3fc3;
+    font-weight: 500;
+}
+
+img {
+    width: 200px;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    width: 200px;
+    justify-content:center;
+    align-items: center;
+}
+
+.input-user {
+    display: flex;
+    flex-direction: column;
+}
+
